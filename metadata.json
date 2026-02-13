@@ -1,0 +1,8 @@
+{
+  "name": "StudyBuddy AI",
+  "description": "An intelligent homework assistant that transforms text-based problems into visual diagrams, explanatory videos, and interactive voice tutoring sessions using the latest Gemini models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
